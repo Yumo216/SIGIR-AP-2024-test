@@ -2,6 +2,20 @@ html {
   overflow-x: hidden;
 }
 
+@media screen and (min-width: 500px) {
+  .date-div{
+    width: 495px;
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .date-div{
+    text-align: left;
+  }
+}
+
+
 body {
   font-family: "Raleway", sans-serif;
   background: #fff;
