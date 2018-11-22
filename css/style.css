@@ -4,7 +4,6 @@ html {
 
 @media screen and (min-width: 500px) {
   .date-div{
-    width: 495px;
     text-align: left;
   }
 }
@@ -552,7 +551,7 @@ textarea.form-control {
 }
 
 .site-section {
-  padding: 3em 0;
+  padding: 4.2em 0;
 }
 
 .site-bg-dark {
