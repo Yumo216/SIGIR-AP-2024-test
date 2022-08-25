@@ -31,6 +31,11 @@ a {
   text-decoration: none;
 }
 
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
 a:hover {
   text-decoration: underline;
   color: #FDA403;
